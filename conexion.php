@@ -1,8 +1,8 @@
 <?php
 // Datos de conexión a la base de datos
 $servidor = "127.0.0.1";
-$usuario = "jorge";
-$contraseña = "666666.j";
+$usuario = "";//pon tu nombre de usuario
+$contraseña = "";//pon tu contraseña
 $basededatos = "calculadora_luz";
 
 //**********************************************************************
